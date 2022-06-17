@@ -1,0 +1,33 @@
+.contenedorLogo{
+    width: 100%;
+    height: 50px;
+    
+    margin-bottom: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .logoPrincipal{
+    height: 70px;
+  }
+  .tituloPrincipal{
+    font-size: 70px;
+    font-weight: 500;
+  }
+  .contenedorCalculadora{
+    width: 400px;
+    padding-top: 20px;
+    height: 600px;
+    background-color: rgb(34, 33, 33);
+    border-radius: 40px;
+    border: 4px solid rgb(241, 139, 5);
+    box-shadow: -8px  10px 10px rgb(62, 63, 65);
+    margin-bottom: 50px;
+  }
+  .fila{
+    margin: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
